@@ -9,9 +9,8 @@
 
 本项目针对 `laravel 5.4` 各个重要模块的源码进行了较为详尽的分析，希望给想要了解 `laravel` 底层原理与源码的同学一些指引。
 
-由于本人能力有限，文章中可能会有一些问题，敬请提出意见与建议，谢谢。
 
-GitBook 地址 ：https://www.gitbook.com/book/leoyang90/laravel-source-analysis
+来源地址 ：https://www.gitbook.com/book/leoyang90/laravel-source-analysis
 
 
 
